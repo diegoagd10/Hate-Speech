@@ -1,0 +1,14 @@
+transformers
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+nltk
+ipykernel
+wordcloud
+tqdm
+seaborn
+lxml
+beautifulsoup4
+lxml
