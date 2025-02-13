@@ -12,3 +12,5 @@ seaborn
 lxml
 beautifulsoup4
 lxml
+torch
+sentence-transformers
